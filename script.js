@@ -1,1 +1,1 @@
-// JS scripts
+// Basic JS

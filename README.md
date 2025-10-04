@@ -1,1 +1,1 @@
-# FF Master Zone\nYour ultimate Free Fire fan hub!
+# FF Master Zone\nUltimate Free Fire fan hub.
