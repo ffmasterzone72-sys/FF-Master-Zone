@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FF Master Zone</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <img src="assets/images/logo.png" alt="FF Master Zone Logo" id="logo">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="characters/char1.html">Characters</a>
+      <a href="pets/pet1.html">Pets</a>
+      <a href="tricks/trick1.html">Tricks</a>
+      <a href="about.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Welcome to FF Master Zone</h1>
+    <p>Your ultimate Free Fire guide! Explore characters, pets, and tricks to dominate the game.</p>
+
+    <section>
+      <h2>Popular Characters</h2>
+      <ul>
+        <li><a href="characters/char1.html">Character 1</a></li>
+        <li><a href="characters/char2.html">Character 2</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Top Pets</h2>
+      <ul>
+        <li><a href="pets/pet1.html">Pet 1</a></li>
+        <li><a href="pets/pet2.html">Pet 2</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Free Fire Tricks</h2>
+      <ul>
+        <li><a href="tricks/trick1.html">Trick 1</a></li>
+        <li><a href="tricks/trick2.html">Trick 2</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 FF Master Zone. Contact via Instagram/WhatsApp.</p>
+  </footer>
+
+  <script src="assets/js/script.js"></script>
+</body>
+</html>
+<h2>Welcome to FF Master Zone</h2><p>Your ultimate Free Fire fan guide.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Character 1 - FF Master Zone</title>
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+  <header>
+    <a href="../index.html">← Back to Home</a>
+  </header>
+
+  <main>
+    <h1>Character 1</h1>
+    <img src="../assets/images/logo.png" alt="Character 1 Image">
+    <p>Description and skills of Character 1.</p>
+  </main>
+</body>
+</html>
+
