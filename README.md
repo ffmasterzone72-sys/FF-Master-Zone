@@ -1,2 +1,1 @@
-# FF Master Zone
-Ultimate Free Fire hub: characters, pets, weapons, tricks, guides & updates.
+# FF Master Zone\nYour ultimate Free Fire fan hub!

@@ -1,1 +1,1 @@
-// Add your JS here
+// JS scripts
